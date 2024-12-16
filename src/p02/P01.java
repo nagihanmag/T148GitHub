@@ -14,5 +14,6 @@ public class P01 {
         if (sayi%2==0){
             System.out.println("GIRDIGINIZ SAYI CIFT SAYIDIR");
         }else System.out.println("Girdiginiz sayi cift sayi degildir ");
+
     }
 }
